@@ -11,7 +11,7 @@ This project is a hand gesture controlled media player that allows users to cont
 - **Volume Control**: Hand gestures can be used to adjust the volume of the media player.
 
 ## Hand Detection, logic used
-![handlandmark](https:/https://github.com/rajvirtech/python_control_music_with_hand_gesture)
+(https:/https://github.com/rajvirtech/python_control_music_with_hand_gesture)
 <br>
 The following reference points are considered for hand landmark detection.
 <br>
