@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hand Gesture Controlled Media Player
 
@@ -64,3 +65,6 @@ To run the hand gesture controlled media player, you will need the following:
 
 3. The media player interface will display the current status and respond to your hand gestures accordingly.
 
+=======
+# python_control_music_with_hand_gestures
+>>>>>>> 1e291d7b98337f81b578d73e1469a511ef927eae
