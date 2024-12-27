@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Hand Gesture Controlled Media Player
 
@@ -11,7 +11,7 @@ This project is a hand gesture controlled media player that allows users to cont
 - **Volume Control**: Hand gestures can be used to adjust the volume of the media player.
 
 ## Hand Detection, logic used
-![handlandmark](https://github.com/Parthiba-Mukhopadhyay/hand_gesture_media_player/assets/89331202/80c7e10e-48ac-44c5-90ea-be40643f6cab)
+![handlandmark](https:/https://github.com/rajvirtech/python_control_music_with_hand_gesture)
 <br>
 The following reference points are considered for hand landmark detection.
 <br>
@@ -41,7 +41,7 @@ To run the hand gesture controlled media player, you will need the following:
 1. Clone the project repository from GitHub:
 
    ```shell
-   git clone https://github.com/Parthiba-Mukhopadhyay/hand_gesture_media_player
+   git clone (https://github.com/rajvirtech/python_control_music_with_hand_gesture)
    ```
 
 2. Install the required dependencies using pip:
